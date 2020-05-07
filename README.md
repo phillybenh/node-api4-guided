@@ -12,6 +12,9 @@ In this project we will learn how to deploy a Web API to `heroku`.
 
 Please fork this repository and follow along **using your fork** as the instructor deploys the API to `heroku`.
 
+## Environment Variables
+ - Each dev must configure the following environment variables:
+     - API_SECRET is used to restrict access to the POST /api/shouts endpoints
 
 ## Deployment
  - Make the port dynamic
